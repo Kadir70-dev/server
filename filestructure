@@ -1,0 +1,13 @@
+football-data-app/
+│
+├── server/
+│   ├── models/
+│   │   └── football.js
+│   ├── controllers/
+│   │   └── footballController.js
+│   ├── routes/
+│   │   └── footballRoutes.js
+│   ├── server.js
+│   └── .env
+│
+└── package.json
